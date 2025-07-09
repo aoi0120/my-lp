@@ -28,7 +28,7 @@ export default function Portfolio() {
   const projects = [
     {
       title: "ブランド収集サイト",
-      description: "ReactとNode.jsを使用したフルスタックの商品をランダムで表示するサイト",
+      description: "ReactとNode.jsを使用して商品をランダムで表示するサイト",
       tech: ["React", "TypeScript", "Node.js", "Express", "Prisma", "Supabase"],
       github: "https://github.com/aoi0120/BrandSite",
       demo: "https://www.youtube.com/watch?v=iyqIZOGS7dQ",
